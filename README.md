@@ -1,4 +1,4 @@
 # IBM-Data-Science-Capstone-Project
 <h3>Capstone Project of IBM Data Science specialization on Coursera</h3>
 
-KNN and K-means Classification and Clustering Machine Learning techniques were used to find the best location for a restaurant that is close to as many hotels in London city center, and away from high competition areas, using Foursquare API datasets.
+KNN and K-means Classification and Clustering Machine Learning techniques were used, with focus on Foursquare API datasets to identify a successful and profitable location for a restaurant that is adjacent to the hospitality hub in London city center, while considering areas of high competition.
